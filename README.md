@@ -27,7 +27,7 @@ REHAB is an AI-powered physical rehabilitation tool designed to improve finger i
     source venv/bin/activate  # On Windows: venv\Scripts\activate
 
     Install dependencies:
-    pip install opencv-python mediapipe numpy pynput
+    pip install opencv-python mediapipe numpy pynput pillow
 
 🎮 How to Use
 
